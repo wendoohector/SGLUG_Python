@@ -1,9 +1,0 @@
-setup.py
-Slugify.egg-info/PKG-INFO
-Slugify.egg-info/SOURCES.txt
-Slugify.egg-info/dependency_links.txt
-Slugify.egg-info/top_level.txt
-pack/__init__.py
-pack/doublon.py
-pack/main.py
-pack/slugify.py
